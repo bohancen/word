@@ -1,0 +1,3 @@
+# pug ejs
+
+  常用2500个中文转为英文数字标识0123456789zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP
